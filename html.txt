@@ -1,0 +1,33 @@
+<html>
+<head>
+
+<center>
+<img src="C:\★휴고링\홈페이지\huegoring_animation_2.gif" width="400"> <br>
+<hr size=4 width=60% color=31d3ae><br>
+<img src="C:\★휴고링\홈페이지\main.jpg" width="1200px"> <br><br><br>
+
+<a href="https://smartstore.naver.com/huegoring"><img src="C:\★휴고링\홈페이지\click.jpg" width="500px"></a> <br>
+<img src="C:\★휴고링\홈페이지\click_2.jpg" width="1200px"> <br><br><br><br><br><br>
+<a href="https://www.instagram.com/huegoring_official/"><img src="C:\★휴고링\홈페이지\instagram.png" width="50px"></a> 
+<a href="https://www.facebook.com/%ED%9C%B4%EA%B3%A0%EB%A7%81-Huegoring-100957231681870/">
+<img src="C:\★휴고링\홈페이지\facebook.png" width="50px"></a>
+<a href="https://www.youtube.com/channel/UCs-mYL_H4w9-x_Du1P9YKUA/"><img src="C:\★휴고링\홈페이지\youtube.png" width="50px"></a> 
+<br><br><br>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');
+.ng-font {
+font-family: 'Noto Sans KR', sans-serif; }
+p {font-size:10px;}
+
+</style>
+
+<font color="31d3ae"><b>ADDRESS </b></font> 경기도 용인시 기흥구 관곡로 92, 603호 &nbsp;&nbsp;
+<font color="31d3ae"><b>E-MAIL </b></font> huegoring@gmail.com<br><br>
+<font color="31d3ae"><b>PHONE</b></font> +82 10-8227-8232 &nbsp;&nbsp;
+<font color="31d3ae"><b>STORE </b></font> https://smartstore.naver.com/huegoring<br><br>
+
+
+</center>
+
+</head>
+</html>
